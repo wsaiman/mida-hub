@@ -2,21 +2,17 @@
   "apps": [
     {
       "name": "BCS Extractor",
-      "url": "https://your-app-1.streamlit.app",
+      "url": "https://bcs-extractor-h6khmgzuabfyibwveutsee.streamlit.app/",
       "description": "Extract and process BCS survey data",
       "icon": "📊"
     },
     {
-      "name": "Pivot Table Tool",
-      "url": "https://your-app-2.streamlit.app",
-      "description": "Automate pivot table generation from investment data",
+      "name": "MIDA Purview Generator",
+      "url": "https://mida-purview-extractor-dcgk5vsrzvjchs5kxay4xc.streamlit.app/",
+      "description": "Automate PDF Report for detailed analysis on MIDA Manufacturing",
       "icon": "🔄"
     },
-    {
-      "name": "Narrative Generator",
-      "url": "https://your-app-3.streamlit.app",
-      "description": "Generate BM investment narratives for NJM reports",
-      "icon": "📝"
+   
     }
   ]
 }
