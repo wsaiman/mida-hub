@@ -1,0 +1,22 @@
+{
+  "apps": [
+    {
+      "name": "BCS Extractor",
+      "url": "https://your-app-1.streamlit.app",
+      "description": "Extract and process BCS survey data",
+      "icon": "📊"
+    },
+    {
+      "name": "Pivot Table Tool",
+      "url": "https://your-app-2.streamlit.app",
+      "description": "Automate pivot table generation from investment data",
+      "icon": "🔄"
+    },
+    {
+      "name": "Narrative Generator",
+      "url": "https://your-app-3.streamlit.app",
+      "description": "Generate BM investment narratives for NJM reports",
+      "icon": "📝"
+    }
+  ]
+}
