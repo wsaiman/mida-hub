@@ -131,11 +131,15 @@ for i in range(0, len(apps), cols_per_row):
             </div>
             """, unsafe_allow_html=True)
 
-            st.link_button(
-                f"Open {app['name']} →",
-                url=app["url"],
-                use_container_width=True
-            )
+            if app.get("url"):
+                st.link_button(
+                    f"Open {app['name']} →",
+                    url=app["url"],
+                    use_container_width=True
+                )
+            else:
+                st.button("Coming Soon", disabled=True,
+                          use_container_width=True, key=app["name"])
 
     st.markdown("<br>", unsafe_allow_html=True)
 
