@@ -20,7 +20,7 @@
     },
     {
       "name": "Private Investment Single Template",
-      "url": "",
+      "url": "https://app-investement-single-template-riiz6qgmgcqoqx7zprvmqs.streamlit.app/",
       "description": "Generate Laporan Kedudukan Pelaburan Swasta PDF (Jadual 1–13 + NIA)",
       "icon": "📈"
     }
