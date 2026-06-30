@@ -12,11 +12,17 @@
       "description": "Automate PDF Report for detailed analysis on MIDA Manufacturing",
       "icon": "🔄"
     },
-      {
+    {
       "name": "Private Investment Supplementary Extractor",
       "url": "",
       "description": "Supplementary Information",
       "icon": "📊"
+    },
+    {
+      "name": "Private Investment Single Template",
+      "url": "",
+      "description": "Generate Laporan Kedudukan Pelaburan Swasta PDF (Jadual 1–13 + NIA)",
+      "icon": "📈"
     }
   ]
 }
